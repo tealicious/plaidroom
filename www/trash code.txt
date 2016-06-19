@@ -1,0 +1,71 @@
+<div class="container">
+		<div class="main row">
+			
+				<div class="col-sm-6 col-lg-4 left" id="center-small">
+					<div class="title vert-align-table">
+					<div class="vert-align-cell">
+						<h3>Saturday, October 31, 2015</h3>
+					</div>
+					</div>
+					<div class="embed-responsive embed-responsive-16by9">
+						<div class="cali embed-responsive-item"></div>
+					</div>
+					<div class="content small vert-align-table">
+						<div class="vert-align-cell">
+						<h3>Cali Soul Slipmats NOW AVAILABLE!</h3>
+						<p>Cali Soul Slipmats are now available in the Online Store in two different colors! Peep 'em!</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-sm-6 col-lg-4 right" id="center-small">
+					<div class="title vert-align-table">
+					<div class="vert-align-cell">
+						<h3>May 22, 2015</h3>
+					</div>
+					</div>
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjb010wGS-k"></iframe>
+					</div>
+					<div class="content small vert-align-table">
+						<div class="vert-align-cell">
+						<h3>New DURAND JONES 45 out on Colemine!!</h3>
+						<p>We're very excited and proud to be releasing a new 45 by Durand Jones & The Indications.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-sm-12 col-lg-4 center-small " id="fullspan">
+				<div class="title vert-align-table">
+					<div class="vert-align-cell">
+						<h3>Saturday, October 31, 2015</h3>
+					</div>
+					</div>
+					<div class="embed-responsive embed-responsive-16by9" id="marquee">
+						<div class="subscribe embed-responsive-item"></div>
+					</div>
+					<div class="content small vert-align-table">
+						<div class="vert-align-cell">
+						<h3>Subsciption Service!</h3>
+						<p class="center-text">Sign up to receive alerts for all the latest new and used releases.</p>
+						</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				
+				
+				
+				<div class="main row">
+		<div class="col-lg-3 col-lg-push-8 col-md-3 col-md-push-9 col-sm-4 col-sm-push-8 pink-title">
+		</div>
+		<div class="col-lg-7 col-lg-pull-2  col-md-9 col-md-pull-3 col-sm-8 col-sm-pull-4 pink-marquee">
+		<div class="embed-responsive embed-responsive-16by9">
+						<div class="orgone embed-responsive-item"></div>
+					</div>
+		</div>
+		</div>
+				
+				
+				
+				
